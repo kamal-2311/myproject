@@ -7,6 +7,11 @@
 #include <iomanip>
 using namespace std;
 
+void nothing()
+{
+	
+}
+
 const string clientsfile = "Clients.txt";
 const string usersfile = "Users.txt";
 
